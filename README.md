@@ -8,40 +8,52 @@ I'm a Computer Science student interested in building modern web applications an
 
 ## 👩‍💻 About Me
 
-- 🎓 BS Computer Science student
-- 💻 Interested in Frontend Development and AI Engineering
-- 🚀 Building modern web applications with React and Next.js
-- 🤖 Interested in AI-powered applications
-- 📚 Currently improving my frontend and AI engineering skills
-- 🌱 Always learning and building new projects
+* 🎓 BS Computer Science student
+* 💻 Interested in Frontend Development and AI Engineering
+* 🚀 Building modern web applications with React and Next.js
+* 🤖 Exploring AI-powered applications with Gemini AI
+* 🌐 Interested in networking and information security
+* 📚 Continuously improving my software development skills
+* 🛠️ Learning by building real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools
+### 🔧 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel" />
 </p>
+
+### 🌐 Networking & Operating Systems
+
+* Cisco Packet Tracer
+* Ubuntu
+* Kali Linux
+
+### 🖥️ Academic & Architecture Tools
+
+* RISC-V
+* Venus Simulator
 
 ---
 
@@ -55,7 +67,7 @@ AI-powered study assistant built with Next.js and Gemini AI.
 
 ### 🤖 AI Frontend Capstone
 
-AI-focused frontend engineering project built as part of my frontend engineering work.
+AI-focused frontend engineering project.
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/ai-frontend-capstone)
 
@@ -67,11 +79,17 @@ A React-based dashboard application.
 
 ### 🌐 Frontend Portfolio
 
-My personal developer portfolio showcasing my projects and frontend work.
+My personal developer portfolio showcasing my frontend projects and work.
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/frontend-portfolio)
 
 🔗 [Visit Portfolio](https://frontend-portfolio-two-rose.vercel.app/)
+
+### 💻 C++ Internship Projects
+
+C++ projects completed during my internship at Auspify Technologies.
+
+🔗 [View Repository](https://github.com/anchalwadhwani25/Auspify-Cpp-Internship)
 
 ---
 
@@ -110,13 +128,14 @@ My personal developer portfolio showcasing my projects and frontend work.
 
 ---
 
-## 💡 Currently Learning
+## 🌱 Currently Learning
 
-- Advanced React
-- Next.js
-- AI-powered web applications
-- Frontend Engineering
-- Modern UI/UX
+* Advanced React
+* Next.js
+* AI-powered web applications
+* Frontend Engineering
+* Modern UI/UX
+* AI-assisted development workflows
 
 ---
 
