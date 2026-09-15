@@ -1,142 +1,156 @@
-# Hi, I'm Anchal 👋
+# Hi, I'm Anchal Wadhwani 👋
 
 ### 💻 BS Computer Science Student | Frontend & AI Engineering
 
-I'm a Computer Science student interested in building modern web applications and AI-powered products.
+I’m a Computer Science undergraduate passionate about **software development, frontend engineering, and AI-powered applications**. I enjoy turning ideas into practical projects while continuously strengthening my programming and problem-solving skills.
+
+Currently focused on building with **React, Next.js, Java, C++, and AI technologies**.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 BS Computer Science student
-* 💻 Interested in Frontend Development and AI Engineering
-* 🚀 Building modern web applications with React and Next.js
-* 🤖 Exploring AI-powered applications with Gemini AI
-* 🌐 Interested in networking and information security
-* 📚 Continuously improving my software development skills
-* 🛠️ Learning by building real-world projects
+* 🎓 BS Computer Science Undergraduate
+* 💻 Interested in **Software Engineering, Frontend Development & AI Engineering**
+* 🚀 Building modern web applications using **React and Next.js**
+* 🤖 Exploring **AI-powered applications and RAG systems**
+* ☕ Experience with **Java, C and C++**
+* 🗄️ Experience with **SQL and database-driven applications**
+* 🎨 Interested in **UI/UX and modern web interfaces**
+* 🌐 Exploring **Networking and Information Security**
+* 📚 Always learning through practical projects and internships
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
-</p>
+`C` `C++` `Java` `JavaScript` `SQL`
 
-### 🎨 Frontend
+### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
-### 🗄️ Database
+### 🤖 AI & Emerging Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+`Gemini AI` `RAG` `AI-powered Applications`
 
-### 🔧 Development Tools
+### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel" />
-</p>
+`MySQL` `SQL`
 
-### 🌐 Networking & Operating Systems
+### 🔧 Tools & Technologies
 
-* Cisco Packet Tracer
-* Ubuntu
-* Kali Linux
+`Git` `GitHub` `IntelliJ IDEA` `VS Code` `Maven` `Figma`
 
-### 🖥️ Academic & Architecture Tools
+### 🌐 Networking & Systems
 
-* RISC-V
-* Venus Simulator
+`Cisco Packet Tracer` `Ubuntu` `Kali Linux`
+
+### 🖥️ Computer Architecture
+
+`RISC-V` `Venus Simulator`
 
 ---
 
-## 🚀 Featured Projects
+# 💼 Internship Experience
 
-### 📚 StudyMate AI
+## 🤖 FlyRank — Front-end AI Engineering Intern
 
-AI-powered study assistant built with Next.js and Gemini AI.
+Worked on modern frontend development and AI-powered application workflows using contemporary web technologies.
+
+**Focus Areas:**
+
+* Frontend Engineering
+* React & Next.js
+* AI-powered features
+* Modern UI development
+* Production-oriented application development
+
+---
+
+## ☕ OASIS INFOBYTE — Java Development Intern
+
+Completed practical Java development projects as part of the **OIB-SIP** internship program.
+
+### Completed Projects
+
+* 🎫 **Online Reservation System**
+* 🏧 **ATM Interface**
+* 📝 **Online Examination System**
+
+**Technologies:** Java • Swing • JDBC • MySQL • Maven
+
+🔗 [OIBSIP Repository](https://github.com/anchalwadhwani25/OIBSIP)
+
+---
+
+## 🌐 CodeAlpha — Frontend Development Intern
+
+Completed practical frontend development projects focusing on responsive interfaces and JavaScript functionality.
+
+### Completed Projects
+
+* 🖥️ Personal Portfolio
+* 🖼️ Image Gallery
+* 🎵 Music Player
+
+**Technologies:** HTML • CSS • JavaScript
+
+🔗 [CodeAlpha Projects](https://github.com/anchalwadhwani25/codealpha_tasks)
+
+---
+
+## 💻 Auspify Technologies — C++ Development Intern
+
+Developed multiple C++ projects to strengthen programming fundamentals, OOP, data structures, algorithms, and problem-solving.
+
+### Completed Projects
+
+* 🎯 Number Guessing Game
+* 👨‍🎓 Student Management System
+* 🏦 Banking Management System
+* 🧮 Mini Expression Evaluator
+
+**Technologies:** C++ • OOP • Data Structures • Algorithms • File Handling
+
+🔗 [Auspify C++ Projects](https://github.com/anchalwadhwani25/Auspify-Cpp-Internship)
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 StudyMate AI
+
+An AI-powered study assistant built with **Next.js and Gemini AI**.
+
+**Technologies:** Next.js • React • JavaScript • Gemini AI
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/studymate-ai)
 
-### 🤖 AI Frontend Capstone
+---
 
-AI-focused frontend engineering project.
+## 🤖 AI Frontend Capstone
+
+An AI-focused frontend engineering project developed to explore modern frontend technologies and AI-powered application experiences.
+
+**Technologies:** React • Next.js • Tailwind CSS • AI
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/ai-frontend-capstone)
 
-### 📊 React Profile Dashboard
+---
 
-A React-based dashboard application.
+## 📊 React Profile Dashboard
+
+A React-based dashboard project focused on frontend development, interface design, and interactive components.
+
+**Technologies:** React • JavaScript • CSS
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/react-profile-dashboard)
 
-### 🌐 Frontend Portfolio
-
-My personal developer portfolio showcasing my frontend projects and work.
-
-🔗 [View Repository](https://github.com/anchalwadhwani25/frontend-portfolio)
-
-🔗 [Visit Portfolio](https://frontend-portfolio-two-rose.vercel.app/)
-
-### 💻 C++ Internship Projects
-
-C++ projects completed during my internship at Auspify Technologies.
-
-🔗 [View Repository](https://github.com/anchalwadhwani25/Auspify-Cpp-Internship)
-
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anchalwadhwani25&show_icons=true&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalwadhwani25&layout=compact&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anchalwadhwani25&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/anchalwadhwani25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://frontend-portfolio-two-rose.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="mailto:wadhawanianchal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-* Advanced React
-* Next.js
-* AI-powered web applications
-* Frontend Engineering
-* Modern UI/UX
-* AI-assisted development workflows
-
----
-
-⭐️ From [Anchal Wadhwani](https://github.com/anchalwadhwani25)
+![Anchal's GitHub Stat]()
