@@ -1,64 +1,43 @@
 <h1 align="center">Hi 👋, I'm Anchal Wadhwani</h1>
 
-<h3 align="center">💻 Computer Science Student | Software Engineer in Progress 🚀</h3>
+<h3 align="center">💻 Computer Science Undergraduate | Software Engineering | Frontend & AI</h3>
 
 <p align="center">
-  <i>Building ideas into real-world applications, one project at a time.</i>
+  Building ideas into real-world applications, one project at a time. 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Frontend+%26+AI+Enthusiast;Java+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Next.js+%7C+AI;Always+Learning%2C+Building+%26+Improving+🚀" />
+  <strong>Frontend Development • AI Engineering • Java • C++ • JavaScript</strong>
 </p>
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
-I'm a **Computer Science undergraduate at DHA Suffa University** passionate about **Software Engineering, Frontend Development, and AI-powered applications**.
+I'm a **Computer Science undergraduate at DHA Suffa University** with a strong interest in **Software Engineering, Frontend Development, and AI-powered applications**.
 
-I enjoy transforming ideas into functional software and learning new technologies through hands-on projects.
+I enjoy learning through practical projects and turning ideas into functional software.
 
 - 🎓 Computer Science Undergraduate
-- 💻 Passionate about Software Engineering & Web Development
-- 🌐 Building modern interfaces with React & Next.js
+- 💻 Interested in Software Engineering & Web Development
+- 🌐 Building modern web applications with React & Next.js
 - 🤖 Exploring AI-powered applications and RAG
-- ☕ Experienced with Java, C and C++
-- 🗄️ Working with SQL & MySQL databases
+- ☕ Experience with Java, C and C++
+- 🗄️ Experience with SQL and MySQL
 - 🎨 Interested in modern UI/UX
-- 🚀 Learning by building real projects
-- 🎯 Open to Software Engineering, Frontend & AI opportunities
+- 🚀 Learning through hands-on projects and internships
+- 🎯 Interested in Software Engineering, Frontend & AI opportunities
 
 ---
 
 ## ✨ What I Do
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🌐 Frontend
-
-Building responsive and modern web interfaces using React, Next.js and JavaScript.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 AI
-
-Exploring AI-powered applications, Gemini AI and Retrieval-Augmented Generation.
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Software
-
-Developing Java and C++ applications while strengthening programming and problem-solving skills.
-
-</td>
-</tr>
-</table>
+| 🌐 Frontend Development | 🤖 AI & Emerging Tech | 💻 Software Development |
+| :---: | :---: | :---: |
+| React & Next.js | AI-powered Applications | Java |
+| JavaScript | Gemini AI | C / C++ |
+| HTML & CSS | RAG | SQL & MySQL |
+| Tailwind CSS | AI Workflows | OOP & Problem Solving |
 
 ---
 
@@ -92,7 +71,7 @@ Developing Java and C++ applications while strengthening programming and problem
 <img src="https://img.shields.io/badge/AI_Applications-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & Developer Tools
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -112,7 +91,7 @@ Developing Java and C++ applications while strengthening programming and problem
 
 Worked on modern frontend development and AI-powered application workflows.
 
-**Focus Areas:**
+### Focus Areas
 
 - ⚛️ React & Next.js
 - 🤖 AI-powered features
@@ -142,7 +121,7 @@ Completed practical Java development projects through the **OIB-SIP** internship
 
 ## 🌐 CodeAlpha — Frontend Development Intern
 
-Completed frontend development projects focused on responsive interfaces and JavaScript functionality.
+Completed practical frontend development projects focused on responsive interfaces and JavaScript functionality.
 
 ### Completed Projects
 
@@ -182,7 +161,7 @@ Developed multiple C++ projects to strengthen programming, OOP, problem-solving 
 
 ## 📚 StudyMate AI
 
-An AI-powered study assistant designed to provide an interactive learning experience using modern web technologies and AI.
+An AI-powered study assistant built using modern web technologies and AI.
 
 **Tech Stack:**
 
@@ -194,7 +173,7 @@ An AI-powered study assistant designed to provide an interactive learning experi
 
 ## 🤖 AI Frontend Capstone
 
-An AI-focused frontend engineering project developed to explore modern frontend technologies and AI-powered application experiences.
+An AI-focused frontend application developed to explore modern frontend technologies and AI-powered application experiences.
 
 **Tech Stack:**
 
@@ -206,30 +185,13 @@ An AI-focused frontend engineering project developed to explore modern frontend 
 
 ## 📊 React Profile Dashboard
 
-An interactive React dashboard focused on frontend development, interface design and reusable UI components.
+An interactive React dashboard focused on frontend development, interface design and reusable components.
 
 **Tech Stack:**
 
 `React` `JavaScript` `CSS`
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/react-profile-dashboard)
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anchalwadhwani25&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anchalwadhwani25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalwadhwani25&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ---
 
@@ -255,17 +217,12 @@ An interactive React dashboard focused on frontend development, interface design
 
 I'm interested in opportunities related to:
 
-💻 **Software Engineering**
-
-🌐 **Frontend Development**
-
-🤖 **AI Engineering**
-
-🧠 **AI-powered Applications**
-
-☕ **Java Development**
-
-⚡ **C++ Development**
+- 💻 **Software Engineering**
+- 🌐 **Frontend Development**
+- 🤖 **AI Engineering**
+- 🧠 **AI-powered Applications**
+- ☕ **Java Development**
+- ⚡ **C++ Development**
 
 ---
 
@@ -293,7 +250,7 @@ I'm interested in opportunities related to:
 
 <p align="center">
 
-### 💭 Learn → Build → Test → Improve → Repeat 🚀
+### Learn → Build → Test → Improve → Repeat 🚀
 
 </p>
 
@@ -307,6 +264,6 @@ I believe every project is an opportunity to learn something new, solve problems
 
 ### 🌷 Thanks for visiting my profile!
 
-**Keep Learning. Keep Building. Keep Improving. 🚀**
+<b>Keep Learning. Keep Building. Keep Improving. 🚀</b>
 
 </p>
