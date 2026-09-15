@@ -1,60 +1,70 @@
 <h1 align="center">Hi 👋, I'm Anchal Wadhwani</h1>
 
-<h3 align="center">💻 Computer Science Undergraduate | Software Engineering | Frontend & AI</h3>
+<h3 align="center">💻 Computer Science Student | Software Engineer in Progress 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/anchalwadhwani25">
-    <img src="https://img.shields.io/github/followers/anchalwadhwani25?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anchalwadhwani25">
-    <img src="https://img.shields.io/github/stars/anchalwadhwani25?label=Stars&style=for-the-badge" />
-  </a>
+  <i>Building ideas into real-world applications, one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Frontend+%26+AI+Enthusiast;Java+%7C+C%2B%2B+%7C+JavaScript;React+%7C+Next.js+%7C+AI;Always+Learning%2C+Building+%26+Improving+🚀" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-I'm a **Computer Science undergraduate at DHA Suffa University** with a strong interest in **Software Engineering, Frontend Development, and AI-powered applications**.
+I'm a **Computer Science undergraduate at DHA Suffa University** passionate about **Software Engineering, Frontend Development, and AI-powered applications**.
 
-I enjoy learning by building real projects and turning ideas into practical, functional software.
+I enjoy transforming ideas into functional software and learning new technologies through hands-on projects.
 
-🚀 Currently working with **React, Next.js, Java, C++, JavaScript, and AI technologies**
-
-🤖 Exploring **AI-powered applications and Retrieval-Augmented Generation (RAG)**
-
-💻 Experienced in building projects through multiple software development internships
-
-🗄️ Comfortable with **SQL, MySQL, and database-driven applications**
-
-🎯 Interested in opportunities in **Software Engineering, Frontend Development, and AI Engineering**
-
-⚡ **Fun fact:** I learn best by building, testing, fixing, and improving real projects.
+- 🎓 Computer Science Undergraduate
+- 💻 Passionate about Software Engineering & Web Development
+- 🌐 Building modern interfaces with React & Next.js
+- 🤖 Exploring AI-powered applications and RAG
+- ☕ Experienced with Java, C and C++
+- 🗄️ Working with SQL & MySQL databases
+- 🎨 Interested in modern UI/UX
+- 🚀 Learning by building real projects
+- 🎯 Open to Software Engineering, Frontend & AI opportunities
 
 ---
 
-## 🔭 Currently Working On
+## ✨ What I Do
 
-- 🤖 AI-powered web applications
-- 🌐 Modern frontend applications with React & Next.js
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 💻 Strengthening software engineering fundamentals
-- 🚀 Building projects for my developer portfolio
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🌐 Frontend
+
+Building responsive and modern web interfaces using React, Next.js and JavaScript.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI
+
+Exploring AI-powered applications, Gemini AI and Retrieval-Augmented Generation.
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Software
+
+Developing Java and C++ applications while strengthening programming and problem-solving skills.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 I'm Looking To
+# 🛠️ Tech Stack
 
-- 👯 Collaborate on **web development and AI projects**
-- 🌱 Learn from real-world software engineering environments
-- 💼 Explore **Software Engineering, Frontend, and AI internships**
-- 🚀 Contribute to interesting development projects
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -64,7 +74,7 @@ I enjoy learning by building real projects and turning ideas into practical, fun
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Frontend Development
+### 🌐 Frontend Development
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -74,7 +84,7 @@ I enjoy learning by building real projects and turning ideas into practical, fun
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### AI & Emerging Technologies
+### 🤖 AI & Emerging Technologies
 
 <p>
 <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
@@ -82,7 +92,7 @@ I enjoy learning by building real projects and turning ideas into practical, fun
 <img src="https://img.shields.io/badge/AI_Applications-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### Databases & Tools
+### 🗄️ Databases & Tools
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -103,11 +113,12 @@ I enjoy learning by building real projects and turning ideas into practical, fun
 Worked on modern frontend development and AI-powered application workflows.
 
 **Focus Areas:**
-- React & Next.js
-- AI-powered features
-- Modern UI development
-- Frontend engineering
-- Production-oriented application development
+
+- ⚛️ React & Next.js
+- 🤖 AI-powered features
+- 🎨 Modern UI development
+- 💻 Frontend engineering
+- 🚀 Production-oriented application development
 
 ---
 
@@ -149,7 +160,7 @@ Completed frontend development projects focused on responsive interfaces and Jav
 
 ## 💻 Auspify Technologies — C++ Development Intern
 
-Developed multiple C++ projects to strengthen programming, OOP, problem-solving, and software development skills.
+Developed multiple C++ projects to strengthen programming, OOP, problem-solving and software development skills.
 
 ### Completed Projects
 
@@ -171,9 +182,11 @@ Developed multiple C++ projects to strengthen programming, OOP, problem-solving,
 
 ## 📚 StudyMate AI
 
-An AI-powered study assistant built using modern web technologies.
+An AI-powered study assistant designed to provide an interactive learning experience using modern web technologies and AI.
 
-**Technologies:** Next.js • React • JavaScript • Gemini AI
+**Tech Stack:**
+
+`Next.js` `React` `JavaScript` `Gemini AI`
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/studymate-ai)
 
@@ -181,9 +194,11 @@ An AI-powered study assistant built using modern web technologies.
 
 ## 🤖 AI Frontend Capstone
 
-An AI-focused frontend application developed during my Front-end AI Engineering internship.
+An AI-focused frontend engineering project developed to explore modern frontend technologies and AI-powered application experiences.
 
-**Technologies:** React • Next.js • Tailwind CSS • AI
+**Tech Stack:**
+
+`React` `Next.js` `Tailwind CSS` `AI`
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/ai-frontend-capstone)
 
@@ -191,11 +206,21 @@ An AI-focused frontend application developed during my Front-end AI Engineering 
 
 ## 📊 React Profile Dashboard
 
-An interactive React dashboard focused on frontend development, modern interface design, and interactive components.
+An interactive React dashboard focused on frontend development, interface design and reusable UI components.
 
-**Technologies:** React • JavaScript • CSS
+**Tech Stack:**
+
+`React` `JavaScript` `CSS`
 
 🔗 [View Repository](https://github.com/anchalwadhwani25/react-profile-dashboard)
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anchalwadhwani25&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
 
 ---
 
@@ -206,18 +231,20 @@ An interactive React dashboard focused on frontend development, modern interface
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalwadhwani25&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anchalwadhwani25&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 # 🌱 Currently Learning
 
+<p align="center">
+
+`React` • `Next.js` • `AI` • `RAG` • `UI/UX` • `Software Engineering`
+
+</p>
+
 - ⚛️ Advanced React
 - ▲ Next.js
 - 🤖 AI-powered Web Applications
-- 🧠 Retrieval-Augmented Generation (RAG)
+- 🧠 Retrieval-Augmented Generation
 - 🎨 Modern UI/UX
 - 💻 Software Engineering Practices
 - 🔧 AI-assisted Development Workflows
@@ -242,7 +269,7 @@ I'm interested in opportunities related to:
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <p align="center">
 
@@ -262,24 +289,24 @@ I'm interested in opportunities related to:
 
 ---
 
-## 💡 My Approach
+# 💡 My Developer Philosophy
 
 <p align="center">
 
-### Learn → Build → Test → Improve → Repeat 🚀
+### 💭 Learn → Build → Test → Improve → Repeat 🚀
 
 </p>
 
-I believe the best way to learn technology is by building real projects, solving problems, and continuously improving through practice.
+> "The best way to learn technology is to build with it."
+
+I believe every project is an opportunity to learn something new, solve problems, and become a better developer.
 
 ---
 
 <p align="center">
 
-⭐ <b>Thanks for visiting my profile!</b>
+### 🌷 Thanks for visiting my profile!
 
-<br>
-
-<b>Keep Learning. Keep Building. Keep Improving. 🚀</b>
+**Keep Learning. Keep Building. Keep Improving. 🚀**
 
 </p>
