@@ -111,4 +111,203 @@ I enjoy learning by building practical projects and turning ideas into functiona
 
 Worked on modern frontend development and AI-powered application workflows.
 
-**Focus Area**
+**Focus Areas**
+
+* ⚛️ React & Next.js
+* 🤖 AI-powered features
+* 🎨 Modern UI development
+* 💻 Frontend engineering
+* 🚀 Production-oriented application development
+
+---
+
+## ☕ OASIS INFOBYTE — Java Development Intern
+
+Completed practical Java development projects through the **OIB-SIP internship program**.
+
+### Projects
+
+🎫 **Online Reservation System**
+
+🏧 **ATM Interface**
+
+📝 **Online Examination System**
+
+**Technologies:** Java • Swing • JDBC • MySQL • Maven
+
+<p>
+<a href="https://github.com/anchalwadhwani25/OIBSIP">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🌐 CodeAlpha — Frontend Development Intern
+
+Completed practical frontend projects focused on responsive interfaces and JavaScript functionality.
+
+### Projects
+
+🖥️ **Personal Portfolio**
+
+🖼️ **Image Gallery**
+
+🎵 **Music Player**
+
+**Technologies:** HTML • CSS • JavaScript
+
+<p>
+<a href="https://github.com/anchalwadhwani25/codealpha_tasks">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Auspify Technologies — C++ Development Intern
+
+Developed C++ projects focused on programming fundamentals, OOP, problem-solving and software development.
+
+### Projects
+
+🎯 **Number Guessing Game**
+
+👨‍🎓 **Student Management System**
+
+🏦 **Banking Management System**
+
+🧮 **Mini Expression Evaluator**
+
+**Technologies:** C++ • OOP • Data Structures • Algorithms • File Handling
+
+<p>
+<a href="https://github.com/anchalwadhwani25/Auspify-Cpp-Internship">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 StudyMate AI
+
+An AI-powered study assistant built with modern web technologies and Gemini AI.
+
+**Tech Stack**
+
+`Next.js` `React` `JavaScript` `Gemini AI`
+
+<p>
+<a href="https://github.com/anchalwadhwani25/studymate-ai">
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🤖 AI Frontend Capstone
+
+An AI-focused frontend application developed to explore modern frontend technologies and AI-powered application experiences.
+
+**Tech Stack**
+
+`React` `Next.js` `Tailwind CSS` `AI`
+
+<p>
+<a href="https://github.com/anchalwadhwani25/ai-frontend-capstone">
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📊 React Profile Dashboard
+
+An interactive React dashboard focused on frontend development, interface design and reusable components.
+
+**Tech Stack**
+
+`React` `JavaScript` `CSS`
+
+<p>
+<a href="https://github.com/anchalwadhwani25/react-profile-dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+`React` • `Next.js` • `AI` • `RAG` • `UI/UX` • `Software Engineering`
+
+</p>
+
+* ⚛️ Advanced React
+* ▲ Next.js
+* 🤖 AI-powered Web Applications
+* 🧠 Retrieval-Augmented Generation
+* 🎨 Modern UI/UX
+* 💻 Software Engineering Practices
+* 🔧 AI-assisted Development Workflows
+
+---
+
+# 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+* 💻 Software Engineering
+* 🌐 Frontend Development
+* 🤖 AI Engineering
+* 🧠 AI-powered Applications
+* ☕ Java Development
+* ⚡ C++ Development
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anchal-wadhwani-2802103a4/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:wadhawanianchal@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anchalwadhwani25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+<p align="center">
+
+### Learn → Build → Test → Improve → Repeat 🚀
+
+</p>
+
+> The best way to learn technology is to build with it.
+
+Every project is an opportunity to learn something new, solve problems, and improve as a developer.
+
+---
+
+<p align="center">
+
+### 🌷 Thanks for visiting my profile!
+
+<b>Keep Learning. Keep Building. Keep Improving. 🚀</b>
+
+</p>
