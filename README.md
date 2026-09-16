@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <strong>Frontend Development • AI Engineering • Java • C++ • JavaScript</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/anchalwadhwani25">
     <img src="https://komarev.com/ghpvc/?username=anchalwadhwani25&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
   </a>
@@ -18,7 +22,7 @@
 
 I'm a **Computer Science undergraduate at DHA Suffa University** with a strong interest in **Software Engineering, Frontend Development, and AI-powered applications**.
 
-I enjoy learning by building practical projects and turning ideas into functional, user-focused software.
+I enjoy learning through practical projects and turning ideas into functional software.
 
 * 🎓 Computer Science Undergraduate
 * 💻 Interested in Software Engineering & Web Development
@@ -28,36 +32,18 @@ I enjoy learning by building practical projects and turning ideas into functiona
 * 🗄️ Experience with SQL and MySQL
 * 🎨 Interested in modern UI/UX
 * 🚀 Learning through hands-on projects and internships
-* 🎯 Open to Software Engineering, Frontend & AI opportunities
+* 🎯 Interested in Software Engineering, Frontend & AI opportunities
 
 ---
 
-# 📊 GitHub Stats
+## ✨ What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anchalwadhwani25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchalwadhwani25&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalwadhwani25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anchalwadhwani25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anchalwadhwani25/anchalwadhwani25/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+| 🌐 Frontend Development |  🤖 AI & Emerging Tech  | 💻 Software Development |
+| :---------------------: | :---------------------: | :---------------------: |
+|     React & Next.js     | AI-powered Applications |           Java          |
+|        JavaScript       |        Gemini AI        |         C / C++         |
+|        HTML & CSS       |           RAG           |       SQL & MySQL       |
+|       Tailwind CSS      |       AI Workflows      |  OOP & Problem Solving  |
 
 ---
 
@@ -111,7 +97,7 @@ I enjoy learning by building practical projects and turning ideas into functiona
 
 Worked on modern frontend development and AI-powered application workflows.
 
-**Focus Areas**
+### Focus Areas
 
 * ⚛️ React & Next.js
 * 🤖 AI-powered features
@@ -125,7 +111,7 @@ Worked on modern frontend development and AI-powered application workflows.
 
 Completed practical Java development projects through the **OIB-SIP internship program**.
 
-### Projects
+### Completed Projects
 
 🎫 **Online Reservation System**
 
@@ -137,7 +123,7 @@ Completed practical Java development projects through the **OIB-SIP internship p
 
 <p>
 <a href="https://github.com/anchalwadhwani25/OIBSIP">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20OIBSIP%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -145,9 +131,9 @@ Completed practical Java development projects through the **OIB-SIP internship p
 
 ## 🌐 CodeAlpha — Frontend Development Intern
 
-Completed practical frontend projects focused on responsive interfaces and JavaScript functionality.
+Completed practical frontend development projects focused on responsive interfaces and JavaScript functionality.
 
-### Projects
+### Completed Projects
 
 🖥️ **Personal Portfolio**
 
@@ -159,7 +145,7 @@ Completed practical frontend projects focused on responsive interfaces and JavaS
 
 <p>
 <a href="https://github.com/anchalwadhwani25/codealpha_tasks">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20CodeAlpha%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -167,9 +153,9 @@ Completed practical frontend projects focused on responsive interfaces and JavaS
 
 ## 💻 Auspify Technologies — C++ Development Intern
 
-Developed C++ projects focused on programming fundamentals, OOP, problem-solving and software development.
+Developed multiple C++ projects to strengthen programming, OOP, problem-solving and software development skills.
 
-### Projects
+### Completed Projects
 
 🎯 **Number Guessing Game**
 
@@ -183,7 +169,7 @@ Developed C++ projects focused on programming fundamentals, OOP, problem-solving
 
 <p>
 <a href="https://github.com/anchalwadhwani25/Auspify-Cpp-Internship">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Auspify%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -193,15 +179,15 @@ Developed C++ projects focused on programming fundamentals, OOP, problem-solving
 
 ## 📚 StudyMate AI
 
-An AI-powered study assistant built with modern web technologies and Gemini AI.
+An AI-powered study assistant built using modern web technologies and Gemini AI.
 
-**Tech Stack**
+**Tech Stack:**
 
 `Next.js` `React` `JavaScript` `Gemini AI`
 
 <p>
 <a href="https://github.com/anchalwadhwani25/studymate-ai">
-  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -211,13 +197,13 @@ An AI-powered study assistant built with modern web technologies and Gemini AI.
 
 An AI-focused frontend application developed to explore modern frontend technologies and AI-powered application experiences.
 
-**Tech Stack**
+**Tech Stack:**
 
 `React` `Next.js` `Tailwind CSS` `AI`
 
 <p>
 <a href="https://github.com/anchalwadhwani25/ai-frontend-capstone">
-  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -227,13 +213,13 @@ An AI-focused frontend application developed to explore modern frontend technolo
 
 An interactive React dashboard focused on frontend development, interface design and reusable components.
 
-**Tech Stack**
+**Tech Stack:**
 
 `React` `JavaScript` `CSS`
 
 <p>
 <a href="https://github.com/anchalwadhwani25/react-profile-dashboard">
-  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -261,12 +247,12 @@ An interactive React dashboard focused on frontend development, interface design
 
 I'm interested in opportunities related to:
 
-* 💻 Software Engineering
-* 🌐 Frontend Development
-* 🤖 AI Engineering
-* 🧠 AI-powered Applications
-* ☕ Java Development
-* ⚡ C++ Development
+* 💻 **Software Engineering**
+* 🌐 **Frontend Development**
+* 🤖 **AI Engineering**
+* 🧠 **AI-powered Applications**
+* ☕ **Java Development**
+* ⚡ **C++ Development**
 
 ---
 
@@ -300,7 +286,40 @@ I'm interested in opportunities related to:
 
 > The best way to learn technology is to build with it.
 
-Every project is an opportunity to learn something new, solve problems, and improve as a developer.
+I believe every project is an opportunity to learn something new, solve problems, and become a better developer.
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anchalwadhwani25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalwadhwani25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchalwadhwani25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anchalwadhwani25&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anchalwadhwani25/anchalwadhwani25/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
