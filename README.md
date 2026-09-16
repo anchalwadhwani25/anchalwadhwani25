@@ -3,11 +3,13 @@
 <h3 align="center">💻 Computer Science Undergraduate | Software Engineering | Frontend & AI</h3>
 
 <p align="center">
-  Building ideas into real-world applications, one project at a time. 🚀
+  <em>Building ideas into real-world applications, one project at a time. 🚀</em>
 </p>
 
 <p align="center">
-  <strong>Frontend Development • AI Engineering • Java • C++ • JavaScript</strong>
+  <a href="https://github.com/anchalwadhwani25">
+    <img src="https://komarev.com/ghpvc/?username=anchalwadhwani25&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
@@ -16,28 +18,46 @@
 
 I'm a **Computer Science undergraduate at DHA Suffa University** with a strong interest in **Software Engineering, Frontend Development, and AI-powered applications**.
 
-I enjoy learning through practical projects and turning ideas into functional software.
+I enjoy learning by building practical projects and turning ideas into functional, user-focused software.
 
-- 🎓 Computer Science Undergraduate
-- 💻 Interested in Software Engineering & Web Development
-- 🌐 Building modern web applications with React & Next.js
-- 🤖 Exploring AI-powered applications and RAG
-- ☕ Experience with Java, C and C++
-- 🗄️ Experience with SQL and MySQL
-- 🎨 Interested in modern UI/UX
-- 🚀 Learning through hands-on projects and internships
-- 🎯 Interested in Software Engineering, Frontend & AI opportunities
+* 🎓 Computer Science Undergraduate
+* 💻 Interested in Software Engineering & Web Development
+* 🌐 Building modern web applications with React & Next.js
+* 🤖 Exploring AI-powered applications and RAG
+* ☕ Experience with Java, C and C++
+* 🗄️ Experience with SQL and MySQL
+* 🎨 Interested in modern UI/UX
+* 🚀 Learning through hands-on projects and internships
+* 🎯 Open to Software Engineering, Frontend & AI opportunities
 
 ---
 
-## ✨ What I Do
+# 📊 GitHub Stats
 
-| 🌐 Frontend Development | 🤖 AI & Emerging Tech | 💻 Software Development |
-| :---: | :---: | :---: |
-| React & Next.js | AI-powered Applications | Java |
-| JavaScript | Gemini AI | C / C++ |
-| HTML & CSS | RAG | SQL & MySQL |
-| Tailwind CSS | AI Workflows | OOP & Problem Solving |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anchalwadhwani25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchalwadhwani25&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalwadhwani25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anchalwadhwani25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anchalwadhwani25/anchalwadhwani25/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
@@ -91,179 +111,4 @@ I enjoy learning through practical projects and turning ideas into functional so
 
 Worked on modern frontend development and AI-powered application workflows.
 
-### Focus Areas
-
-- ⚛️ React & Next.js
-- 🤖 AI-powered features
-- 🎨 Modern UI development
-- 💻 Frontend engineering
-- 🚀 Production-oriented application development
-
----
-
-## ☕ OASIS INFOBYTE — Java Development Intern
-
-Completed practical Java development projects through the **OIB-SIP** internship program.
-
-### Completed Projects
-
-🎫 **Online Reservation System**
-
-🏧 **ATM Interface**
-
-📝 **Online Examination System**
-
-**Technologies:** Java • Swing • JDBC • MySQL • Maven
-
-🔗 [View OIBSIP Repository](https://github.com/anchalwadhwani25/OIBSIP)
-
----
-
-## 🌐 CodeAlpha — Frontend Development Intern
-
-Completed practical frontend development projects focused on responsive interfaces and JavaScript functionality.
-
-### Completed Projects
-
-🖥️ **Personal Portfolio**
-
-🖼️ **Image Gallery**
-
-🎵 **Music Player**
-
-**Technologies:** HTML • CSS • JavaScript
-
-🔗 [View CodeAlpha Repository](https://github.com/anchalwadhwani25/codealpha_tasks)
-
----
-
-## 💻 Auspify Technologies — C++ Development Intern
-
-Developed multiple C++ projects to strengthen programming, OOP, problem-solving and software development skills.
-
-### Completed Projects
-
-🎯 **Number Guessing Game**
-
-👨‍🎓 **Student Management System**
-
-🏦 **Banking Management System**
-
-🧮 **Mini Expression Evaluator**
-
-**Technologies:** C++ • OOP • Data Structures • Algorithms • File Handling
-
-🔗 [View Auspify Repository](https://github.com/anchalwadhwani25/Auspify-Cpp-Internship)
-
----
-
-# 🚀 Featured Projects
-
-## 📚 StudyMate AI
-
-An AI-powered study assistant built using modern web technologies and AI.
-
-**Tech Stack:**
-
-`Next.js` `React` `JavaScript` `Gemini AI`
-
-🔗 [View Repository](https://github.com/anchalwadhwani25/studymate-ai)
-
----
-
-## 🤖 AI Frontend Capstone
-
-An AI-focused frontend application developed to explore modern frontend technologies and AI-powered application experiences.
-
-**Tech Stack:**
-
-`React` `Next.js` `Tailwind CSS` `AI`
-
-🔗 [View Repository](https://github.com/anchalwadhwani25/ai-frontend-capstone)
-
----
-
-## 📊 React Profile Dashboard
-
-An interactive React dashboard focused on frontend development, interface design and reusable components.
-
-**Tech Stack:**
-
-`React` `JavaScript` `CSS`
-
-🔗 [View Repository](https://github.com/anchalwadhwani25/react-profile-dashboard)
-
----
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-`React` • `Next.js` • `AI` • `RAG` • `UI/UX` • `Software Engineering`
-
-</p>
-
-- ⚛️ Advanced React
-- ▲ Next.js
-- 🤖 AI-powered Web Applications
-- 🧠 Retrieval-Augmented Generation
-- 🎨 Modern UI/UX
-- 💻 Software Engineering Practices
-- 🔧 AI-assisted Development Workflows
-
----
-
-# 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-- 💻 **Software Engineering**
-- 🌐 **Frontend Development**
-- 🤖 **AI Engineering**
-- 🧠 **AI-powered Applications**
-- ☕ **Java Development**
-- ⚡ **C++ Development**
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/anchal-wadhwani-2802103a4/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:wadhawanianchal@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anchalwadhwani25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 My Developer Philosophy
-
-<p align="center">
-
-### Learn → Build → Test → Improve → Repeat 🚀
-
-</p>
-
-> "The best way to learn technology is to build with it."
-
-I believe every project is an opportunity to learn something new, solve problems, and become a better developer.
-
----
-
-<p align="center">
-
-### 🌷 Thanks for visiting my profile!
-
-<b>Keep Learning. Keep Building. Keep Improving. 🚀</b>
-
-</p>
+**Focus Area**
