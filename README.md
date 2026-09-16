@@ -307,22 +307,6 @@ I believe every project is an opportunity to learn something new, solve problems
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anchalwadhwani25&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anchalwadhwani25/anchalwadhwani25/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 <p align="center">
 
 ### 🌷 Thanks for visiting my profile!
